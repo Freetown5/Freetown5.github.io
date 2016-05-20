@@ -1,0 +1,30 @@
+html, body{
+	padding:0;
+	margin:0;
+	width:100%;
+	margin: 0 auto;
+	background-color:rgb(242, 207, 179);
+	height:100%;
+	}
+	
+p     {
+	font-family: 'Marmelad', sans-serif;
+	font-size:30px;
+	text-align:center;
+	}
+	
+a      {
+	font-family: 'Marmelad', sans-serif;
+	font-size:30px;
+	padding:140px;
+	}
+	
+li {
+	font-family: 'Marmelad', sans-serif;
+	font-size: 30px;
+	}
+	
+.inner{
+	width:65%;
+	margin: 0 auto;
+	}
