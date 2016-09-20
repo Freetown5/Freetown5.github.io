@@ -173,3 +173,19 @@ text-align: center;
   }
 }
 
+.cc-sized{
+  margin-left: 25%;
+  width:50%;
+  height:50%;
+}
+
+.pc-sized, .tl-sized, .ia-sized{
+  margin-left: 22.5%;
+  width:55%;
+  height:55%;
+}
+
+.perfectly-sized{
+  margin-left: 26%;
+}
+
