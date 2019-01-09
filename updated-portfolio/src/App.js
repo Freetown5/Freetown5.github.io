@@ -3,7 +3,7 @@ import 'semantic-ui-react';
 import './App.css';
 // import DefaultCode from './components/DefaultCode/DefaultCode';
 import NavBar from './components/NavBar/NavBar';
-import Experience from './components/Experience/Experience';
+// import Experience from './components/Experience/Experience';
 
 class App extends Component {
   render() {
@@ -11,7 +11,7 @@ class App extends Component {
       <div className="App">
         <NavBar />
         {/* <DefaultCode /> */}
-        <Experience />
+        {/* <Experience /> */}
       </div>
     );
   }
