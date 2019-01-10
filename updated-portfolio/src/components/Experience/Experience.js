@@ -1,9 +1,11 @@
 import React from 'react';
+import NavBar from '../NavBar/NavBar';
 
 class Experience extends React.Component {
     render(){
         return(
             <div className="experience">
+                <NavBar />
                 <h1>Professional Experience</h1>
 
                 {/* Create a json doc and turn text into expressions */}

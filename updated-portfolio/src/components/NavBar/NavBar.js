@@ -9,25 +9,25 @@ class NavBar extends React.Component {
                     <Segment>
                         <p>Left Rail Content</p>
                         <div>
-                            <a href="/">Experience</a>
+                            <a href="/experience">Experience</a>
                         </div>
                         <div>
-                            <a href="/">Skills</a>
+                            <a href="/skills">Skills</a>
                         </div>
                         <div>
-                            <a href="/">Education</a>
+                            <a href="/education">Education</a>
                         </div>
                         <div>
-                            <a href="/">Community Outreach</a>
+                            <a href="/volunteer">Community Outreach</a>
                         </div>
                         <div>
-                            <a href="/">Conference Talks</a>
+                            <a href="/confTalks">Conference Talks</a>
                         </div>
                         <div>
-                            <a href="/">Side Projects</a>
+                            <a href="/portfolio">Side Projects</a>
                         </div>
                         <div>
-                            <a href="/">Contact</a>
+                            <a href="/contact">Contact</a>
                         </div>
                     </Segment>
                 </GridColumn>
